@@ -1,5 +1,5 @@
 local scripts={
-    [73956553001240]="Volleyball_Legends",
+    [6931042565]="Volleyball_Legends",
     [6331902150]="Forsaken"
 }
 
