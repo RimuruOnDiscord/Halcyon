@@ -1,6 +1,19 @@
 
 ![Logo](https://github.com/RimuruOnDiscord/Halcyon/blob/assets/HALCYON.png?raw=true)
 
+## Script
+```lua
+local owner = "Upbolt"
+local branch = "revision"
+
+local function webImport(file)
+    return loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/%s/Hydroxide/%s/%s.lua"):format(owner, branch, file)), file .. '.lua')()
+end
+
+webImport("init")
+webImport("ui/main")
+```
+
 ## About Halcyon
 These projects are created purely for my own fun and entertainment. I enjoy coding and experimenting with different ideas, and I’m happy to share them with others.
 
