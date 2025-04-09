@@ -1,13 +1,12 @@
-
 ![Logo](https://github.com/RimuruOnDiscord/Halcyon/blob/assets/HALCYON.png?raw=true)
+
+## About Halcyon
+These projects are created purely for my own fun and entertainment. I enjoy coding and experimenting with different ideas, and I’m happy to share them with others.
 
 ## Script
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RimuruOnDiscord/Halcyon/refs/heads/main/Loader.lua"))()
 ```
-
-## About Halcyon
-These projects are created purely for my own fun and entertainment. I enjoy coding and experimenting with different ideas, and I’m happy to share them with others.
 
 ## Usage
 Feel free to browse, use, and modify any of the code in this repository as you please. You can:
