@@ -1,7 +1,7 @@
 ![Logo](https://github.com/RimuruOnDiscord/Halcyon/blob/assets/HALCYON.png?raw=true)
 
 ## About Halcyon
-These projects are created purely for my own fun and entertainment. I enjoy coding and experimenting with different ideas, and I’m happy to share them with others.
+These projects are created purely for my own fun and entertainment. I enjoy coding and experimenting with different ideas.
 
 ## Script
 ```lua
