@@ -2,7 +2,7 @@
 -- Client-Side Variables
 -------------------------------
 local infstam = false
-local delay = 4
+local delay = 3
 local autoGenRunning = false
 local run = false
 
@@ -487,8 +487,8 @@ local SectionAutoGenerator = TabAutomation:CreateSection("Auto-Generator")
 SectionAutoGenerator:CreateSlider("AutoGeneratorDelay", {
     Title = "Delay (sec)",
     Description = "Adjust the delay for auto-generation (4 to 10 seconds).",
-    Default = 4,
-    Min = 4,
+    Default = 3,
+    Min = 3,
     Max = 10,
     Rounding = 1,
     Callback  = function(value)
