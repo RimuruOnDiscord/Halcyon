@@ -1,5 +1,6 @@
 local scripts={
     [73956553001240]="Volleyball_Legends"
+    [18687417158]="Forsaken"
 }
 
 local game_script=scripts[game.GameId]
