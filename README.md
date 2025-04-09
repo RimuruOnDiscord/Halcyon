@@ -1,5 +1,5 @@
 
-![Logo](https://media.discordapp.net/attachments/1017727424303202324/1355473107585863781/HALCYON.png?ex=67f04e74&is=67eefcf4&hm=88bad6b7d775272b5d00ca2baa5ceaba678771ace6e153d2451c76c229e4e253&=&format=webp&quality=lossless&width=847&height=200)
+![Logo](https://github.com/RimuruOnDiscord/Halcyon/blob/assets/HALCYON.png?raw=true)
 
 ## About Halcyon
 These projects are created purely for my own fun and entertainment. I enjoy coding and experimenting with different ideas, and I’m happy to share them with others.
