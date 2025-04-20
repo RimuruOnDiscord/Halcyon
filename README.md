@@ -5,7 +5,7 @@ These projects are created purely for my own fun and entertainment. I enjoy codi
 
 ## Script
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RimuruOnDiscord/Halcyon/refs/heads/main/Loader.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RimuruOnDiscord/Halcyon/refs/heads/main/loader.lua"))()
 ```
 
 ## Contact
