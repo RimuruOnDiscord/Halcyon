@@ -120,6 +120,23 @@ local function setupCapsuleUI()
         end,
         Tooltip = "Gives you the selected capsule or bundle."
     })
+
+	LeftGroupBox2:AddToggle("Auto-Use Toggle", {
+    Text = "Auto-Use Selected Bundle",
+    Default = false,
+    Callback = function(state)
+        IsLooping = state
+
+        if IsLooping then
+            task.spawn(function()
+                while IsLooping and task.wait(0.01) do
+                    UseEvent:InvokeServer(SelectedItem, 1)
+                end
+            end)
+        end
+    end
+})
+
 end
 
 setupCapsuleUI()
